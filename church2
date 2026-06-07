@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Song Mirror</title>
+</head>
+<body>
+
+<h1>Song Mirror</h1>
+
+<a href="controller.html">Controller</a>
+<br>
+<a href="viewer.html">Viewer</a>
+
+</body>
+</html>
